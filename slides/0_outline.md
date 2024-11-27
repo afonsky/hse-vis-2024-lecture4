@@ -52,7 +52,7 @@ zoom: 0.95
   <tr>
     <td class="tg-7qrw" rowspan="2">27 ноября</td>
     <td class="tg-wuxm">18:10</td>
-    <td class="tg-7qrw"><a href="https://afonsky.github.io/hse-vis-2024-lecture4">Лекция 4: Практика создания визуализаций</a></td>
+    <td class="tg-7qrw"><a href="https://afonsky.github.io/hse-vis-2024-lecture4">Лекция 4: Зрительное восприятие. Цвет</a></td>
     <td class="tg-z4fc"></td>
   </tr>
   <tr>
