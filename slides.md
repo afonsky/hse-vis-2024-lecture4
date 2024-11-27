@@ -18,7 +18,7 @@ lineNumbers: false
 
 css: unocss
 title: Научная визуализация данных
-subtitle: Лекция 4. Зрительное восприятие
+subtitle: Лекция 4. Зрительное восприятие. Цвет
 date: 27/11/2024
 venue: HSE
 author: Алексей Болдырев
